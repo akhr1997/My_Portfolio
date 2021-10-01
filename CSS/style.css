@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.intro{
+  background-color: #1C2D50;
+  /* height: 100vh; */
+}
+
+/* .about{
+  height: 100vh;
+} */
+
+.aboutme-section{
+  background-color: #15223C !important;
+  /* height: 100vh; */
+}
+
+.work-experience{
+  background-color: #1C2D50;
+  padding: 10px;
+  padding-bottom: 150px;
+  padding-top: 30px;
+  /* height: 100vh; */
+}
+
+.projects{
+  background-color: #15223C;
+  /* height: 100vh;     */
+}
+
+.connect{
+  background-color: #1C2D50;
+  /* height: 100vh; */
+}
+
+.nav-bar, .navbar-brand {
+  font-family: "oswald", sans-serif;
+  /* padding: 0px 0px 0px 0px !important; */
+  /* height: 30px !important; */
+  font-size: 20px;
+}
+
+.nav-style{
+  align-items: center;
+  position: absolute;
+  background-color: #1E5F74;
+  /* top: 10px; */
+  /* right: 10px; */
+  /* left: 10px; */
+  /* width: 100%;
+  height: 70px;
+  margin-left: 10px;
+  margin-right: 10px; */
+}
+
+.nav-link{
+  color: white !important;
+  font-weight: 400;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-family: "oswald", sans-serif;
+  font-weight: bold;
+  padding-left: 50px;
+  font-size: 2.5rem !important;
+}
+
+.nav-link-resume {
+  display: inline;
+  width: 80px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+}
+
+ .hello{
+  font-family: "Quattrocento", sans-serif;
+  color: #FEC576;
+  padding-left: 50px;
+  padding-top: 50px;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.ashwin{
+  font-family: "oswald", sans-serif;
+  padding-left: 50px;
+  padding-top: 40px;
+  font-size: 6rem;
+  line-height: 1;
+  color: white;
+}
+
+.full{
+  font-family: "Quattrocento", sans-serif;
+  padding-left: 50px;
+  color: white;
+  padding-top: 20px;
+  font-size: 2rem;
+  line-height: 1;
+  padding-bottom: 0px !important;
+}
+  
+.about-img{
+  align-content: center;
+  width: 100%;
+  height: 100%;
+  padding-left: 90px;
+  padding-top: 80px;
+}
+
+.aboutme{
+  color: white;
+}
+
+.about-col-one{
+  /* display: flex;
+  justify-content: center; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em
+}
+
+.aboutme-heading{
+  text-align: center;
+  font-family: "oswald", sans-serif;
+  color: #FEC576;
+  padding-top: 80px;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.aboutme-heading2{
+  text-align: center;
+  font-family: "Quattrocento", sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1;
+  border-bottom: 50px;
+  margin: 0px !important;
+}
+
+.aboutme-desc{
+  text-align: center;
+  font-family: "Quattrocento", sans-serif;
+  color: white;
+  font-size: 23px;
+  line-height: 1.5;
+  padding-bottom: 40px;
+}
+
+.exp-heading{
+  text-align: center;
+  font-family: "oswald", sans-serif;
+  color: #FEC576;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+.work-exp{
+  font-family: "Quattrocento", sans-serif;
+}
+
+.card-header-change{
+  font-weight: 1000;
+}
+
+.card-title-change{
+  text-decoration: underline black;
+}
